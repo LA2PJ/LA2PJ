@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Building amateur radio gear.
 - 🌱 I’m currently learning ... How to use SDR receivers and hopefully be able to make my own code for receiver firmware.
 - 💞️ I’m looking to collaborate on ... tools for ham radio and weak signal detection.
-- 📫 How to reach me ... la2pj@online.no
+- 📫 How to reach me ... la2pj (at) online (dot) no
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
